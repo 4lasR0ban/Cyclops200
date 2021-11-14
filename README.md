@@ -1,7 +1,7 @@
 ![Header](https://github.com/Cyclops200/Cyclops200/blob/main/header.png)
 
-- 👋 Hi, I’m @Cyclops200
-- 👀 I’m interested in front end web and android development
-- 🌱 I’m currently learning android native
-- 📫 You can come over to my instagram account @verowardana
+Salam dari Binjai!
+
+Hei, I'm Vero Bagus Wardana. I'm a student majoring in information technology and computer engineering. Don't hesitate to scroll down to see my repos!
+Here some social media that I use:
 
